@@ -1,0 +1,27 @@
+How to add new user to Linux
+
+https://www.digitalocean.com/community/tutorials/how-to-add-delete-and-grant-sudo-privileges-to-users-on-a-debian-vps
+
+=============================================================================================================================
+
+Create Multiple Sudo Users to EC2 Amazon Linux
+
+https://www.helicaltech.com/create-multiple-sudo-users-to-ec2-amazon-linux/
+https://brianflove.com/2013/06/18/add-new-sudo-user-to-ec2-ubuntu/
+
+=============================================================================================================================
+
+How to attach a user created in linux with aws 
+
+https://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+
+==============================================================================================================================
+
+How to create a custom policy based on our requirements
+
+https://aws.amazon.com/blogs/security/how-to-create-a-limited-iam-administrator-by-using-managed-policies/
+==> based on the requirements we need .
+
+==============================================================================================================================
+
+More on user groups and roles ping yourself to aws documentation
