@@ -25,3 +25,14 @@ https://aws.amazon.com/blogs/security/how-to-create-a-limited-iam-administrator-
 ==============================================================================================================================
 
 More on user groups and roles ping yourself to aws documentation
+
+
+=============================================================================================================================
+
+How to run NGNIX VIDEO link https://www.youtube.com/watch?v=28ioY4vgC9I
+
+How to set up ufw firewall in ubuntu
+
+https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
+
+=============================================================================================================================
