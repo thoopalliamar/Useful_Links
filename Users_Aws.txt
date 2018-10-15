@@ -36,3 +36,7 @@ How to set up ufw firewall in ubuntu
 https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04
 
 =============================================================================================================================
+
+how to setup and send mail using smtp server from linux (office should be with that mail)
+
+https://stackoverflow.com/questions/35130119/linux-configuration-ssmtp-cannot-open-smtp-gmail-com587
